@@ -402,7 +402,7 @@
               "key": "region",
               "type": "string",
               "description": "Region for VPC.",
-              "required": true,
+              "required": true
             }
           ],
           "dependencies": [
